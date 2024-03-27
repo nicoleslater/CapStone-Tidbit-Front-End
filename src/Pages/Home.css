@@ -19,16 +19,15 @@ body {
 }
 
 .image {
-  width: 700px;
+  width: 300px;
   padding-right: 100px;
-  border-radius: px;
 }
 
 .home-header {
   font-size: 24px;
   font-weight: bold;
   color: #333;
-  margin-bottom: 20px;
+  margin-bottom: 10px;
 }
 
 .text-container {
@@ -39,7 +38,7 @@ body {
 
 .home-header-title {
   width: 800px;
-  margin-top: -150px;
+  margin-top: 50px;
   text-align: left;
   font-size: 70px;
   color:  #0d08bc;
@@ -50,13 +49,11 @@ body {
 }
 
 p {
-  font-size: 28px;
-  text-align: left;
+  font-size: 25px;
   line-height: 1.5;
   letter-spacing: 0.2ch;
   color: #0d08ba;
-  margin-top: -15px;
-  padding-bottom: 130px;
+  margin-top: 20px;
 }
 
 .tidbit-logo {
@@ -80,5 +77,5 @@ p {
 }
 
 .start-learning-button:hover {
-  background-color: #0d08ba;
+  background-color: #9F00E5;
 }
